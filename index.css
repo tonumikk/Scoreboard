@@ -1,0 +1,25 @@
+body {
+width: 300px;
+height: 200px;
+background: #1B244A;
+font-family: 'Segoe UI', Roboto,'Helvetica Neue', sans-serif;
+font-weight: bold;
+text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.score-bg{
+width: 100px;
+height: 120px;
+left: 337px;
+top: 125px; 
+background: black 
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: red;
+}
