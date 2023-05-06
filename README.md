@@ -1,0 +1,2 @@
+# Scoreboard
+ Scrimba Javascript project
